@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dasgoutam.github,io/das-port/static/css/main.f855e6bc.css",
-    "main.js": "/dasgoutam.github,io/das-port/static/js/main.cc675723.js",
-    "static/js/453.4f282bbc.chunk.js": "/dasgoutam.github,io/das-port/static/js/453.4f282bbc.chunk.js",
-    "static/media/logo.svg": "/dasgoutam.github,io/das-port/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dasgoutam.github,io/das-port/index.html",
-    "main.f855e6bc.css.map": "/dasgoutam.github,io/das-port/static/css/main.f855e6bc.css.map",
-    "main.cc675723.js.map": "/dasgoutam.github,io/das-port/static/js/main.cc675723.js.map",
-    "453.4f282bbc.chunk.js.map": "/dasgoutam.github,io/das-port/static/js/453.4f282bbc.chunk.js.map"
+    "main.css": "/dasgoutam.github.io/das-port/static/css/main.f855e6bc.css",
+    "main.js": "/dasgoutam.github.io/das-port/static/js/main.afca6a57.js",
+    "static/js/453.4f282bbc.chunk.js": "/dasgoutam.github.io/das-port/static/js/453.4f282bbc.chunk.js",
+    "static/media/logo.svg": "/dasgoutam.github.io/das-port/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dasgoutam.github.io/das-port/index.html",
+    "main.f855e6bc.css.map": "/dasgoutam.github.io/das-port/static/css/main.f855e6bc.css.map",
+    "main.afca6a57.js.map": "/dasgoutam.github.io/das-port/static/js/main.afca6a57.js.map",
+    "453.4f282bbc.chunk.js.map": "/dasgoutam.github.io/das-port/static/js/453.4f282bbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cc675723.js"
+    "static/js/main.afca6a57.js"
   ]
 }
